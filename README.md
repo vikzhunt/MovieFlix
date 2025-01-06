@@ -4,7 +4,8 @@
 With a clean and user-friendly interface, users can easily explore movie titles, view key details like the release year, genre, cast, and plot summary, and discover their favorite films.
 
 ![image](https://github.com/user-attachments/assets/c3d982b5-a922-49f0-930e-a2026f4c3cf4)
-![image](https://github.com/user-attachments/assets/6668355d-abeb-454c-a16c-70265ed3bf08)
+![image](https://github.com/user-attachments/assets/b83fe4c6-8d2b-426c-96fd-a3af3279bd69)
+
 
 ---
 
